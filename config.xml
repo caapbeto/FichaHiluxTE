@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="fichastecnicas.toyota" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>FicTecTOYOTA-Rav4XRoad25</name>
+    <name>FicTecTOYOTA-HiluxTE</name>
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
-    <content src="ficharav4xroad25/index.html" />
+    <content src="HiluxTE/index.html" />
     <!--<preference name="DisallowOverscroll" value="true" />-->
 	<preference name="Fullscreen" value="true" />
 	<preference name="Orientation" value="landscape" />
